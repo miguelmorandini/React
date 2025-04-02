@@ -1,0 +1,15 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align:center;
+}
+
+.car-container{
+  display:flex;
+  justify-content: center;
+}
+
+.car-container div{
+  margin-top: 50px;
+}
