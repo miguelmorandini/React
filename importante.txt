@@ -1,0 +1,6 @@
+baixe a extensao ES7 React...Snippets
+
+
+configurar o emment: Temos que acessar File > Settings > Extensions e procurar por Emmet; Lá vamos incluir a linguagem: javascript - javascriptreact;
+
+para criar um novo projeto: npm create vite@latest
